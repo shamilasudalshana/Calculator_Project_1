@@ -125,9 +125,6 @@ output.
 "Unrecognized operation"  
 "Something Went Wrong"
 
-Some common issues and solutions are explained
-in [**<span class="underline">This Forum
-Post</span>**](https://open.uom.lk/mod/forum/discuss.php?d=43814)
 
 **For example:**
 
