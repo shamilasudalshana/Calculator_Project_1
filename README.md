@@ -214,4 +214,4 @@ output.
 </tbody>
 </table>
 
-Answer:(penalty regime: 0 %)
+
